@@ -3,7 +3,7 @@ layout: posts
 title: Test Post
 ---
 
-## This is my team at Microsoft
+## This is my teacher team at Microsoft
 People in the picture are:
 - Arul
 - Fai

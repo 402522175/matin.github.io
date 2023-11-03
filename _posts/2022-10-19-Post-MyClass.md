@@ -1,8 +1,7 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: computer engineering field
 ---
-
+ 
 - We wrote some code
-- We built our website
 - We pushed
