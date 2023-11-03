@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌ی
+title: مصاحبه با آقای بیاتی
 ---
 
 ## This is my team at Microsoft
