@@ -1,4 +1,5 @@
 ---
+#my teacher courses
 layout: single
 author_profile: true
 permalink: /courses/
