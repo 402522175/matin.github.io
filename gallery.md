@@ -7,8 +7,8 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/1.png
-    image_path: /assets/images/1.png
+  - url: /assets/images/1.jpeg
+    image_path: /assets/images/1.jpeg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/2.jepg
