@@ -3,7 +3,7 @@
 layout: single
 author_profile: true
 permalink: /calendar/
-title: Courses
+title: calendar
 tags: [Studying, calendar]
 modified: 11-14-2023
 comments: false
